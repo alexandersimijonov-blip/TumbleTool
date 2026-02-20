@@ -6,9 +6,8 @@ Univerzalno orodje za nastavitev in vzdrževanje Linux sistemov.
     Prenesi datoteko TumbleTool.sh.
 
     Odpri terminal v mapi z datoteko.
-
+    sudo apt install tk
     sudo apt install python3-tk
-
     sudo apt install python3-pip
 
     Nastavi pravice za zagon:
